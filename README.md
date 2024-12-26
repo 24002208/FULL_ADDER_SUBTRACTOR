@@ -101,6 +101,10 @@ endmodule
 
 ![WhatsApp Image 2024-12-23 at 08 29 24_1d4768b6](https://github.com/user-attachments/assets/89077a3f-b5de-48e1-b16e-e6a117a80d9f)
 
+**Truth Table**
+![exp 4 truth](https://github.com/user-attachments/assets/bbf2407b-7c60-4a1e-a0b8-8748452e7c25)
+
+
 
 **Result:**
 
